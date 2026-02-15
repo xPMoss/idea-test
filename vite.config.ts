@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base:"idea-test",
   build: {
-    outDir: 'docs',
+    outDir: 'dist',
   },
 })
